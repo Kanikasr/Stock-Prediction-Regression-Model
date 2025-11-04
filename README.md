@@ -1,6 +1,7 @@
 📈 Yes Bank Stock Price Forecast 
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/eac38dce-5bf1-4ea6-ade6-4e16b9be882e" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/11df143a-68f9-458b-acd9-14c454b45701" />
+
 
 
 
