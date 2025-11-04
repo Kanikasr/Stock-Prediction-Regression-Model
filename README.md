@@ -1,5 +1,5 @@
 📈 Yes Bank Stock Price Forecast 
-<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/985e4fb9-4a9d-40ba-8f44-abe261dbcc23" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/eac38dce-5bf1-4ea6-ade6-4e16b9be882e" />
 
 
 
@@ -78,6 +78,8 @@ Date (Month Start)
 Close (Adjusted Closing Price)
 
 Stored in project as data.csv
+<img width="1163" height="449" alt="image" src="https://github.com/user-attachments/assets/f84b2bae-564b-4146-8e20-2230d550be3f" />
+
 
 📈 Model Training Summary
 
