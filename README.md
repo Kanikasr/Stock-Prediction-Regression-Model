@@ -1,4 +1,4 @@
-<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/7411dd0e-203f-4bdd-9794-d55bd988991a" />  Yes Bank Stock Closing Price Prediction
+**Yes Bank Stock Closing Price Prediction**
 
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/11df143a-68f9-458b-acd9-14c454b45701" />
@@ -9,7 +9,7 @@
 This project builds a Time-Series Forecasting App that predicts the monthly closing price of Yes Bank Ltd. (NSE: YESBANK) using the ARIMA statistical model.
 It includes a deployed-friendly Streamlit Web Application with data visualization and forecast export features.
 
-🚀 Project Overview
+🚀 **Project Overview:**
 
 ✔ Historical monthly stock data collected and cleaned
 
@@ -25,7 +25,7 @@ The app forecasts future monthly closing prices and visualizes both historical a
 
  A great end-to-end Data Science + Time-Series + Deployment project!
 
-📌 Key Features
+📌 **Key Features:**
 Feature	Description
 | Feature              | Description                                 |
 | -------------------- | ------------------------------------------- |
@@ -37,7 +37,7 @@ Feature	Description
 |  Model Saving      | Reload trained model without retraining     |
 
 
-🧱 Tech Stack
+🧱 **Tech Stack:**
 | Component     | Technology        |
 | ------------- | ----------------- |
 | Programming   | Python            |
@@ -48,7 +48,7 @@ Feature	Description
 | Serialization | Joblib            |
 
 
-📂 Folder Structure
+📂 **Folder Structure:**
 yesbank-forecast/
 │
 ├── app.py                # Streamlit Application
@@ -57,7 +57,7 @@ yesbank-forecast/
 ├── README.md             # Documentation (This File)
 └── requirements.txt      # Dependencies
 
-▶️ How to Run the App
+▶️ **How to Run the App:**
 Install dependencies:
 
 pip install -r requirements.txt
@@ -70,7 +70,7 @@ streamlit run app.py
 Then open browser:
  http://localhost:8501/
 
-📁 Dataset Used
+📁 **Dataset Used:**
 
 Source: NSE Yes Bank historical data (Monthly)
 
@@ -84,7 +84,7 @@ Stored in project as data.csv
 <img width="1163" height="449" alt="image" src="https://github.com/user-attachments/assets/f84b2bae-564b-4146-8e20-2230d550be3f" />
 
 
-📈 Model Training Summary
+📈 **Model Training Summary:**
 
 Model Type: ARIMA(p,d,q)
 
@@ -96,7 +96,7 @@ Model serialized using joblib
 
 The model forecasts future values based solely on patterns from historical prices.
 
-🔮 Example Forecast Output (Next 12 Months)
+🔮 **Example Forecast Output (Next 12 Months):**
 | Date       | Predicted Close |
 | ---------- | --------------- |
 | 2020-12-01 | 13.72           |
@@ -106,7 +106,7 @@ The model forecasts future values based solely on patterns from historical price
 
 (Actual output may vary depending on retraining)
 
-📦 requirements.txt
+📦 **requirements.txt**
 streamlit
 pandas
 numpy
@@ -114,7 +114,7 @@ matplotlib
 statsmodels
 joblib
 
-🚧 Future Enhancements
+🚧 **Future Enhancements**
 
 - Confidence Interval bands in the plot
 - MAPE / RMSE model accuracy displayed
@@ -122,11 +122,8 @@ joblib
 - Add option for new data upload
 - Deployment on Streamlit Cloud / Heroku
 
-👨‍💻 Author
+👨‍💻 **Author**
 
-Simple
+Kanika Singh Rajpoot
 M.Tech — Signal Processing | Data Science Enthusiast
 
- Feel free to connect for improvements or suggestions!
-
- If you like this project, consider giving a star on GitHub!
