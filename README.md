@@ -17,18 +17,18 @@ It includes a deployed-friendly Streamlit Web Application with data visualizatio
 
 The app forecasts future monthly closing prices and visualizes both historical and predicted values.
 
-✅ A great end-to-end Data Science + Time-Series + Deployment project!
+ A great end-to-end Data Science + Time-Series + Deployment project!
 
 📌 Key Features
 Feature	Description
 | Feature              | Description                                 |
 | -------------------- | ------------------------------------------- |
-| 📊 ARIMA Model       | Accurate univariate time-series forecasting |
-| 📅 Flexible Horizon  | Forecast next **12 / 24 / 36 months**       |
-| 🖥️ Streamlit App    | UI for visualization & interaction          |
-| 📉 Interactive Graph | Stock closing trend + mean forecast         |
-| 📥 Download Button   | Export forecast as CSV                      |
-| 🧠 Model Saving      | Reload trained model without retraining     |
+|  ARIMA Model       | Accurate univariate time-series forecasting |
+|  Flexible Horizon  | Forecast next **12 / 24 / 36 months**       |
+|  Streamlit App    | UI for visualization & interaction          |
+|  Interactive Graph | Stock closing trend + mean forecast         |
+|  Download Button   | Export forecast as CSV                      |
+|  Model Saving      | Reload trained model without retraining     |
 
 
 🧱 Tech Stack
@@ -62,7 +62,7 @@ streamlit run app.py
 
 
 Then open browser:
-👉 http://localhost:8501/
+ http://localhost:8501/
 
 📁 Dataset Used
 
@@ -119,6 +119,6 @@ joblib
 Simple
 M.Tech — Signal Processing | Data Science Enthusiast
 
-📧 Feel free to connect for improvements or suggestions!
+ Feel free to connect for improvements or suggestions!
 
-⭐ If you like this project, consider giving a star on GitHub!
+ If you like this project, consider giving a star on GitHub!
