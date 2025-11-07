@@ -87,7 +87,7 @@ Benefits:
 ---
 
 ## 📁 Folder Structure
-yesbank-forecast/
+Stock-Prediction-Regression-Model/
 │── app.py # Streamlit Application
 │── data.csv # Cleaned Monthly Stock Data
 │── arima_model.pkl # Saved ARIMA model
