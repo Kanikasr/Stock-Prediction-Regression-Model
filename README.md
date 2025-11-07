@@ -88,16 +88,17 @@ Benefits:
 
 ## 📁 Folder Structure
 Stock-Prediction-Regression-Model/
-│── app.py # Streamlit Application
-│── data.csv # Cleaned Monthly Stock Data
-│── arima_model.pkl # Saved ARIMA model
-│── best_ml_model.pkl # ML Trend Model
-│── rf_resid.pkl # Residual Correction Model
-│── scaler.pkl # Scaler for ML
-│── scaler_resid.pkl # Scaler for residual model
-│── features.json # Saved ML feature list
-│── requirements.txt
+│── app.py
+│── data.csv
+│── arima_model.pkl
+│── best_ml_model.pkl
+│── rf_resid.pkl
+│── scaler.pkl
+│── scaler_resid.pkl
+│── features.json
 │── README.md
+│── requirements.txt
+│── yes_bank_regression.ipynb
 
 
 ---
